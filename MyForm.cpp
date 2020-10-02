@@ -55,7 +55,7 @@ vector3d v(n, std::vector<std::vector<int>>(strings, std::vector<int>(colomns, 0
     }
 
 
-    array.open("C:\\Users\\Дима\\Desktop\\array.txt");
+    array.open("array.txt");
     for (int i = 0; i < v.size(); ++i)
     {
 
@@ -77,7 +77,7 @@ vector3d v(n, std::vector<std::vector<int>>(strings, std::vector<int>(colomns, 0
 
 System::Void Project1::MyForm::button_Out_A_Click(System::Object^ sender, System::EventArgs^ e)
 {
-    //system("C:\\Users\\Дима\\Desktop\\array.txt");
+    //system("array.txt");
     
 }
 
