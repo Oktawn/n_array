@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+C:\Users\Дима\source\repos\Project1\MyForm.cpp(36,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Дима\source\repos\Project1\MyForm.cpp(51,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Дима\source\repos\Project1\MyForm.cpp(53,27): warning C4018: <: несоответствие типов со знаком и без знака
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project1.vcxproj -> C:\Users\Дима\source\repos\Project1\Debug\Project1.exe
