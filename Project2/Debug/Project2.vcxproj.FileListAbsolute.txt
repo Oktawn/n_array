@@ -1,0 +1,5 @@
+C:\Users\Дима\source\repos\Project2\Debug\Project2.vcxprojAssemblyReference.cache
+C:\Users\Дима\source\repos\Project2\Debug\Project2.MyForm.resources
+C:\Users\Дима\source\repos\Project2\Debug\Project2.vcxproj.GenerateResource.cache
+C:\Users\Дима\source\repos\Project2\Debug\Project2.exe
+C:\Users\Дима\source\repos\Project2\Debug\Project2.pdb

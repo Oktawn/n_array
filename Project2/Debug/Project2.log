@@ -1,0 +1,19 @@
+﻿  MyForm.cpp
+C:\Users\Дима\source\repos\Project2\MyForm.cpp(40,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Дима\source\repos\Project2\MyForm.cpp(57,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Дима\source\repos\Project2\MyForm.cpp(60,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Дима\source\repos\Project2\MyForm.cpp(63,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Дима\source\repos\Project2\MyForm.cpp(73,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Дима\source\repos\Project2\MyForm.cpp(79,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Дима\source\repos\Project2\MyForm.cpp(90,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Дима\source\repos\Project2\MyForm.cpp(92,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Дима\source\repos\Project2\MyForm.cpp(101,19): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Дима\source\repos\Project2\MyForm.cpp(103,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Дима\source\repos\Project2\MyForm.cpp(114,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Дима\source\repos\Project2\MyForm.cpp(120,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Дима\source\repos\Project2\MyForm.cpp(131,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Дима\source\repos\Project2\MyForm.cpp(133,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Дима\source\repos\Project2\MyForm.cpp(142,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Дима\source\repos\Project2\MyForm.cpp(144,27): warning C4018: <: несоответствие типов со знаком и без знака
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project2.vcxproj -> C:\Users\Дима\source\repos\Project2\Debug\Project2.exe
